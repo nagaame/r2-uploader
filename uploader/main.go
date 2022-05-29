@@ -43,7 +43,7 @@ func main() {
 			urls = append(urls, uploaded)
 		}
 		for _, url := range urls {
-			fmt.Println(url)
+			fmt.Print(url)
 		}
 	}
 
