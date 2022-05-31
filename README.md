@@ -1,4 +1,5 @@
 # r2-uploader
+[![Go](https://github.com/nagaame/r2-uploader/actions/workflows/go.yml/badge.svg)](https://github.com/nagaame/r2-uploader/actions/workflows/go.yml)
 
 this uploader is the [CF-R2-ImageBed/uploader](https://github.com/cmj2002/CF-R2-ImageBed/tree/main/uploader) simple implement by golang for [marktext](https://github.com/marktext/marktext).
 
