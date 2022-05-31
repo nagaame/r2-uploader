@@ -11,5 +11,5 @@ specify and load executable files.
 compile:
 
 ```go
-go build uploader/main.go
+go build -v ./...
 ```

@@ -46,7 +46,6 @@ func main() {
 			fmt.Print(url)
 		}
 	}
-
 }
 
 func uploader(key string, file string) string {
