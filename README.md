@@ -8,7 +8,7 @@ usage:
 
 specify and load executable files.
 
-![](https://cdn.kanda.me/images/2022/05/31/0/6661f833c0c291846c26fa8692e9dc8c8b132d9f.png)
+![](./7f6690f0df6b351707549a93a14a65e44cc86c56.png)
 
 compile:
 
